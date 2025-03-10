@@ -1,0 +1,9 @@
+# ignore chroma db folder
+chroma*/
+# ignore data folder
+data/
+# ignore temp.pdf
+temp.pdf
+# ignore gradio 
+.gradio/
+# ignore venv
