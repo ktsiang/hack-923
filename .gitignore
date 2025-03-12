@@ -8,3 +8,4 @@ temp.pdf
 .gradio/
 # ignore venv
 .venv/
+.env
