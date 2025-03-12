@@ -7,3 +7,4 @@ temp.pdf
 # ignore gradio 
 .gradio/
 # ignore venv
+.venv/
